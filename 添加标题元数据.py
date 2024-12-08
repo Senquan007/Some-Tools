@@ -24,5 +24,5 @@ def set_flac_metadata(folder_path):
 
 
 # 使用示例
-folder_path = "F:\IMAGES_Classified\Images\IMG_2024_10_G.E.M\音频"
+folder_path = "..\音频"
 set_flac_metadata(folder_path)
